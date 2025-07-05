@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class TesteFuncao03 {
+    public static void main(String[] args) {
+        Scanner leia = new Scanner(System.in);
+
+        int a = leia.nextInt();
+        int b = leia.nextInt();
+
+        System.out.println("X = "+TesteFuncao03x1.soma(a,b));
+    }
+}
