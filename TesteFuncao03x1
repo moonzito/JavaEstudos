@@ -1,0 +1,6 @@
+public class TesteFuncao03x1 {
+    public static int soma(int a, int b){
+        int Soma = a+b;
+        return Soma;
+    }
+}
